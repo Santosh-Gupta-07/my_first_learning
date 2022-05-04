@@ -1,0 +1,2 @@
+This is my version 1 of git learning,and I'm a very curious about new technology learning.
+This is for diff command.
